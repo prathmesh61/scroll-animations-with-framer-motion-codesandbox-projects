@@ -40,7 +40,7 @@ export const Hero = () => {
         className="fixed left-1/2 z-10 flex flex-col items-center"
       >
         <p className="mb-2 text-xl font-light">
-          <span className="font-medium">Projects</span> Beta
+          <span className="font-medium">Projects</span> Betaaa
         </p>
         <p className="mb-8 text-center text-xs font-light text-text">
           by{" "}
