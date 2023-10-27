@@ -83,7 +83,7 @@ export const Features = () => {
           <span className="text-primary">Preconfigured environments</span>
           <br />
           We detect your environment so you don't need to fiddle with
-          configuration files.
+          configuration filesss.
         </motion.p>
         <motion.p
           style={stylesWithCssVar({
